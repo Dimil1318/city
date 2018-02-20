@@ -1,0 +1,42 @@
+
+.input-for-map{
+outline:none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    width: 30%;
+    border-radius: 4px;
+    line-height: 30px;
+    border: 1px solid rgb(126, 121, 121);
+		}
+.div-for-input{
+width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+	}
+.warning{
+color:red;
+font-size:5em;
+}
+.for-last-letter{
+color:green;
+font-size:5em;
+}
+
+.input-for-map{
+border:5px solid black;
+font-size:5em;
+line-height:100px;
+}
+.btn-for-map,.lose{
+width:10%;
+line-height:100px;
+background-color:white;
+border:5px solid black;
+font-size:5em;
+}
+span, .number{
+line-height:100px;
+font-size:5em;
+}
+
